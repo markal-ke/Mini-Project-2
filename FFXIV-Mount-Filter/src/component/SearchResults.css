@@ -1,0 +1,15 @@
+.results-list {
+    width: 100%;
+    background-color: rgb(49, 48, 49);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: var(--shadow);
+    border-radius: 8px;
+    margin-top: 1px;
+    max-height: 400px;
+    overflow-y: scroll;
+    border-radius: 16px;
+    border-color: rgb(139, 83, 15);
+    border-width: 50px;
+}
